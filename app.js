@@ -81,5 +81,5 @@ function filterTask(e) {
         } else {
             task.style.display = 'none';
         }
-    })
+    });
 }
